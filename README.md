@@ -13,15 +13,14 @@ We made sure the website is clean, responsive, and looks as close as possible to
 Code is well-organized, readable, and properly commented for easier understanding.
 
 👥 Group Members
-[Name 1]
+Linda Riziki
 
-[Name 2]
+Vivian Bossy Osinde
 
-[Name 3]
+Tsoji Victor Rikwen
 
-[Name 4]
+Isaac Mwakale
 
-[Name 5]
 
 
 Everyone contributed equally to the project through planning, coding, testing, and reviewing.
