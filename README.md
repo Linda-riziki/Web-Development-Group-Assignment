@@ -12,7 +12,8 @@ Bootstrap helped in creating a mobile-responsive layout quickly and efficiently.
 We made sure the website is clean, responsive, and looks as close as possible to the original design.
 Code is well-organized, readable, and properly commented for easier understanding.
 
-👥 Group Members
+Group Members
+
 Linda Riziki
 
 Vivian Bossy Osinde
