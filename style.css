@@ -133,4 +133,130 @@ nav a {
     border-radius: 10px;
   }
   
+/* ABOUT SECTION */
+.about {
+  padding: 100px 50px;
+  background-color: #f9f9f9;
+}
+
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.about-image img {
+  width: 350px;
+  border-radius: 10px;
+}
+
+.about-details {
+  flex: 1;
+}
+
+.about-details h5 {
+  color: gray;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+
+.about-details h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  line-height: 1.4;
+}
+
+.about-details p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.about-info {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 500px;
+  gap: 40px;
+}
+
+.info-column {
+  flex: 1;
+}
+
+.info-column p {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+
+.about-socials {
+  margin: 20px 0;
+}
+
+.about-socials span {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.about-socials a {
+  margin-right: 10px;
+  font-size: 24px;
+  color: #20c997;
+  transition: color 0.3s;
+}
+
+.about-socials a:hover {
+  color: #0077b6;
+}
+
+.about-buttons {
+  margin-top: 20px;
+}
+
+.about-buttons .btn {
+  display: inline-block;
+  margin-right: 15px;
+  padding: 12px 30px;
+  font-size: 16px;
+  border-radius: 50px; /* Fully rounded */
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.3s;
+  border: none;
+}
+
+.about-buttons .hire {
+  background-color: #00a76f; /* Darker Green */
+  color: #fff;
+}
+
+.about-buttons .hire:hover {
+  background-color: #00915f; /* Even slightly darker on hover */
+}
+
+.about-buttons .download {
+  background-color: #00b894; /* Lighter Green */
+  color: #fff;
+}
+
+.about-buttons .download:hover {
+  background-color: #00a383; /* Slightly darker on hover */
+}
+
+
+/* Responsive for smaller devices */
+@media (max-width: 768px) {
+  .about-container {
+      flex-direction: column;
+      text-align: center;
+  }
+  .about-image img {
+      width: 250px;
+  }
+}
 
