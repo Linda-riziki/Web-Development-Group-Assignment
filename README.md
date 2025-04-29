@@ -22,7 +22,7 @@ Tsoji Victor Rikwen
 
 Isaac Mwakale
 
-
+JohnnChamp
 
 Everyone contributed equally to the project through planning, coding, testing, and reviewing.
 We maintained teamwork and good communication throughout the project.
